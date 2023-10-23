@@ -10,7 +10,7 @@
                 </span>
                 <div class="right">
                     <i @click="editCity" class="far fa-edit"></i>
-                    <i @click="refreshApp" class="fa-solid fa-arrows-rotate"></i>
+                    <!-- <i @click="refreshApp" class="fa-solid fa-arrows-rotate"></i> -->
                     <i @click="addCity" class="far fa-plus"></i>
                 </div>
             </nav>
